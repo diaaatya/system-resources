@@ -83,4 +83,3 @@ Feel free to open issues or submit pull requests if you'd like to contribute to 
 **Note**: This project is designed to run on Windows. It uses Windows-specific API functions, so it may not work on other operating systems.
 ```
 
-Now, this is ready for you to copy and paste into your `README.md` file. Everything is included as requested, with **Step 2** and **Step 3** explaining the compilation and execution processes.
